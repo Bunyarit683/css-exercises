@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+.start-bth,.cancel-bth{
+    font-size: 28px;
+    font-family:Helvetica,"Times New Roman",sans-serif;
+}
+.start-bth{
+    background-color: black;
+    color: white;
+}
+.cancel-bth {
+    background-color: yellow;
+}
