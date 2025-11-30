@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.text-normal{
+    background-color: rgb(234, 127, 163);
+    font-family: verdana,"DejaVu Sans",sans-serif;
+}
+#box-main{
+    color: rgb(4, 4, 243);
+    font-size: 36px;
+}
+.text-normal.highlight{font-size: 24px;}
+#box-secondary{
+    background-color: rgb(98, 244, 98);
+    font-size: 24px;
+    font-weight: bolder;
+}
